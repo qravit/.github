@@ -1,4 +1,4 @@
-# Qravit 🍽️ | Innovating Digital Dining
+# Qravit | Innovating Digital Dining
 
 <div align="center">
   <img src="qravit_banner.png" alt="Qravit Banner" style="width: 100%; max-width: 100%;">
