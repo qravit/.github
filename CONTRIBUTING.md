@@ -63,9 +63,9 @@ To ensure high-quality contributions, follow these best practices:
 - Use descriptive commit messages:
 
   ```bash
-  feat(menu): added dark mode support
-  fix(auth): resolved login bug
-  docs(readme): improved contribution guidelines
+  feat: added dark mode support
+  fix: resolved login bug
+  docs: improved contribution guidelines
   ```
 
 ### ✅ Issue & Pull Request Etiquette
